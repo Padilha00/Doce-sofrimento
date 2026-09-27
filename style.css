@@ -26,7 +26,7 @@ h1 {
 
 main > section > p {
     text-align: center;
-    color: #aaa;
+    color: #ff2f2f;
     margin-bottom: 45px;
 }
 
@@ -107,7 +107,7 @@ main > section > p {
 }
 
 .genero p {
-    color: #999;
+    color: #ff2f2f;
 }
 
 #pagina-playlist {
